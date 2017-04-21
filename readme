@@ -10,7 +10,7 @@
 	<button id="btAc" onclick = "AC ()">AC</button>
 	<button id="bt+-" onclick = "MaisMenos ()">+/-</button>
 	<button id="bt%" onclick = "Porcentagem ()">%</button>
-	<button id="bt/" onclick = "Dividir ()">÷</button>
+	<button id="bt/" onclick = "Dividir ()">Ã·</button>
 	</td></tr>
 	<tr><td>
 	<button id="bt7" onclick = "Sete ()">7</button>
